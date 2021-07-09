@@ -5,3 +5,4 @@ export const White = "#ecebe6";
 export const Purple = "#e2c5ff";
 export const Yellow = "#FFD580";
 export const BackgroundGrey = "#282C34";
+export const LighterBackgroundGRey = "#282C34";
