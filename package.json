@@ -1,9 +1,10 @@
 {
   "name": "concrete-theme",
   "displayName": "Concrete Theme",
-  "description": "Personal theme for GitHub user HaiderNadeem",
+  "description": "A no-nonsense dark theme for people who like to get things done",
   "version": "0.0.1",
   "publisher": "HaiderNadeem",
+  "icon": "themes/Screenshots/concrete.jpg",
   "repository": {
     "type": "git",
     "url": "https://github.com/HaiderNadeem/Concrete-Theme"
