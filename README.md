@@ -1,4 +1,4 @@
-# Haida Theme
+# Concrete Theme
 
 A minimalist dark grey theme that works just as well in the day as it does at night
 

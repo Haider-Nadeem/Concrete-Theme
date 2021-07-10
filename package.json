@@ -1,21 +1,21 @@
 {
-    "name": "haida-theme",
-    "displayName": "Haida",
-    "description": "Personal theme for GitHub user HaiderNadeem",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.56.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Haida Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Haida Theme-color-theme.json"
-            }
-        ]
-    }
+  "name": "concrete",
+  "displayName": "Concrete",
+  "description": "Personal theme for GitHub user HaiderNadeem",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.56.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Concrete",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Concrete-color-theme.json"
+      }
+    ]
+  }
 }
