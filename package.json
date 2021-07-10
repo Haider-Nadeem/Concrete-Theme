@@ -3,6 +3,21 @@
   "displayName": "Concrete Theme",
   "description": "Personal theme for GitHub user HaiderNadeem",
   "version": "0.0.1",
+  "publisher": "HaiderNadeem",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HaiderNadeem/Concrete-Theme"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "dark theme",
+    "grey",
+    "metallic",
+    "silver",
+    "night",
+    "night theme"
+  ],
   "engines": {
     "vscode": "^1.56.0"
   },
