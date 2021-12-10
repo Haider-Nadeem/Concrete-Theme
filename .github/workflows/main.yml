@@ -1,0 +1,12 @@
+name: Test Workflow
+
+on:
+  repository_dispatch:
+  workflow_dispatch:
+
+jobs:
+  log:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: echo Working!
